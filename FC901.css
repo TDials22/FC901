@@ -1,0 +1,58 @@
+body{
+    background-image: url( https://res-console.cloudinary.com/tdials/thumbnails/v1/image/upload/v1568916817/Ymx1ZS1icmljay1iYWNrZ3JvdW5kcy10ZXh0dXJlLXdhbGxfYzdpaGVm/preview);
+  }
+  
+  .li1 {
+     color: rgb(108, 209, 240);
+  }
+  
+  .li2 {
+    color: rgb(252, 202, 3);
+  }
+  
+  
+  .nav {
+    display: inline;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .blue {
+    color: rgb(108, 209, 240);
+  }
+  
+  .white {
+    color: white;
+  }
+  
+  .yellow {
+    color: rgb(252, 202, 3);
+  }
+  
+  .grey{
+    color: rgb(170, 173, 171);
+  }
+  
+  .soccerimg {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    height: 300px;
+    width: 500px;
+   }
+  
+  #table {
+    margin-top: 50px;
+  }
+  
+  .uclimg {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    height: 100px;
+    width: 400px;
+    
+  }
